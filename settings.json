@@ -32,6 +32,9 @@
 	"editor.unicodeHighlight.ambiguousCharacters": false,
 	"editor.wordBasedSuggestions": false,
 	"editor.wordWrap": "on",
+	"emmet.extensionsPath": [
+		"~/AppData/Roaming/Code/User/snippets", // on Windows
+	],
 	"explorer.autoReveal": false,
 	"explorer.compactFolders": false,
 	"explorer.confirmDelete": false,
