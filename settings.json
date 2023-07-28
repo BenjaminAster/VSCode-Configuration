@@ -25,6 +25,7 @@
 		"strings": "off",
 	},
 	"editor.renderControlCharacters": true,
+	"editor.renderFinalNewline": "on",
 	"editor.renderWhitespace": "all",
 	"editor.smoothScrolling": true,
 	"editor.snippetSuggestions": "inline",
